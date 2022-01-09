@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navlika-Singh
-- 👀 I’m interested in python, data science, machine learning and learning.
-- 🌱 I’m currently learning the basics of machine learning.
+- 👀 I’m interested in machine learning, deep learning and it's application in Computer Vision(CV) and Natural Language Processing(NLP).
+- 🌱 I’m currently learning and working in Computer Vision, and exploring NLP.
 - 💞️ I’m looking to collaborate on any projects concerning areas of my interest and skills.
 - 📫 How to reach me -> email me -> singh.119@iitj.ac.in
 
